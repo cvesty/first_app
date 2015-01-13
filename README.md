@@ -2,4 +2,4 @@
 
 Это первое приложение для
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
- [Савицкий Тимофей](http://cvesty.pp.ua/).
+ by [Савицкий Тимофей](http://cvesty.pp.ua/).
